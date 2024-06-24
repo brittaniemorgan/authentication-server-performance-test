@@ -13,5 +13,5 @@ These endpoints are validated using scenarios and stress tested to assess perfor
 How to run tests: 
 1. Download NODE JS
 2. Install dependencies with `npm install`
-3. Run with `npm start`
-4. artillery run load-test.yml
+3. Start server with `npm start`
+4. Run tests with `artillery run load-test.yml`
